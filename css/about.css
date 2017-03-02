@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.top-c{
+	background-image: url(../images/topess.png);}
+.about{
+	min-height:300px;
+	animation:ss 2s ease;
+	margin-top:80px;
+	padding:80px 150px 130px;
+	font-size:24px;
+	color:#FFF;
+	}
+.left{
+	width:300px;
+	height:300px;
+	float:left;
+	background-image:url(../images/about.png);}	
+.right{
+	width:450px;
+	height:300px;
+	float:right;}	

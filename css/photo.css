@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.top-c{
+	background-image: url(../images/topess.png);}
+.photo-box{
+	padding-top:60px;
+	animation:ss 2s ease;}
+.photo{
+	width:510px;
+	height:340px;
+	float:left;
+	margin:40px;
+	border:5px #FFFFFF solid;
+	color:#FFF;
+	font-size:36px;
+	text-align:center;
+	line-height:340px;}

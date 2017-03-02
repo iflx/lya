@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family:byt;
+	src:url(../fonts/Bright%20Young%20Things.ttf);}
+@font-face{
+	font-family:fst;
+	src: url(../fonts/FourScoreTitling.otf);}
+@keyframes right{
+	0%{right:-900px;opacity:0.0;}
+	50%{right:-900px;opacity:0.0;}
+	100%{right:0px;opacity:1.0;}
+	}
+
+@keyframes ss{
+	0%{opacity:0.0;}
+	100%{opacity:1.0;}}	
+
+*{
+	margin:0 0;
+	padding:0 0;}
+	
+body{
+	background-color:#CCC;
+	background-image:url(../images/bgm.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;} 
+		
+.box{
+	width:1366px;
+	margin:0 auto;}
+
+.top{
+	overflow:hidden;
+	padding-top:40px;}
+
+.top-a{
+	position: relative;
+	width:580px;
+	height:56px;
+	padding-bottom:35px;}
+
+.top-c{
+	position: relative;
+	animation:right 2s ease-out ;
+	height:25px;
+	width:529px;
+	}
+
+a{
+	display:block;
+	color:#FFF;
+	text-decoration:none;}
+
+
