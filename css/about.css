@@ -2,13 +2,14 @@
 /* CSS Document */
 .top-c{
 	background-image: url(../images/topess.png);}
-.about{max-width: 1366px;
+.about{
+	max-width: 1366px;
 	width: 100%;
 	margin:0 auto;
 	min-height:300px;
 	animation:ss 2s ease;
 	margin-top:80px;
-	padding:80px 150px 130px;
+	padding:80px 70px 130px;
 	font-size:24px;
 	color:#FFF;
 	}
