@@ -16,6 +16,7 @@
 	float:left;
 	background-image:url(../images/about.png);}	
 .right{
-	width:450px;
-	height:300px;
-	float:right;}	
+	width: 400px;
+	height: 300px;
+	float: right;
+}	
