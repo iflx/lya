@@ -26,11 +26,11 @@ body{
 	background-attachment:fixed;
 	background-position:center;} 
 		
-.box{
-	margin: 0 auto;
-}
 
 .top{
+	max-width: 1366px;
+	width: 100%;
+	margin:0 auto;
 	overflow:hidden;
 	padding-top:40px;
 	padding-left:50px;}

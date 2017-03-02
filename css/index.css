@@ -15,9 +15,11 @@
 .top-c{
 	background-image: url(../images/topb.png);}
 .banner{
+	max-width: 1366px;
+	width: 100%;
 	animation: ss 2s ease;
 	height: 375px;
-	margin: 60px 0;
+	margin: 60px auto;
 	background: rgba(204,204,204,0.3);
 	border-radius: 5px;
 	color: #FFF;

@@ -3,6 +3,9 @@
 .top-c{
 	background-image: url(../images/topess.png);}
 .photo-box{
+	max-width: 1366px;
+	width: 100%;
+	margin:0 auto;
 	padding-top:60px;
 	animation:ss 2s ease;}
 .photo{
