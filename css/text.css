@@ -3,19 +3,21 @@
 .top-c{
 	background-image: url(../images/topess.png);}
 .text{
+	border-radius: 20px;
 	max-width: 1366px;
 	width: 100%;
-	margin:80px auto;
-	overflow:hidden;
-	min-height:300px;
-	animation:ss 2s ease;
-	padding:80px 70px 130px;
-	font-size:24px;
-	color:#FFF;
-	font-family:"黑体" ;
-	background-color:rgba(204,204,204,0.3)}
+	margin: 80px auto;
+	/* [disabled]overflow:hidden; */
+	min-height: 300px;
+	animation: ss 2s ease;
+	padding: 80px 70px 130px;
+	font-size: 24px;
+	color: #FFF;
+	font-family: "黑体";
+	background-color: rgba(204,204,204,0.3)
+}
 	.text span{
-		display:block;
+		display:inline-block;
 		margin:10px 0 20px;}
 .text p{
 	font-family: Gabriola;
@@ -38,3 +40,9 @@
 	}
 	#red{
 		color:#F33;}
+#little{
+	color: #FFF;
+	font-size:20px;}
+.b-color{
+	border: 5px solid #F9C;
+	box-shadow: 0 0 15px 3px #F9C;}
